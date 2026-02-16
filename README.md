@@ -1,3 +1,5 @@
+<img src="https://stats.sophat.top/stats?username=ggpptrades&theme=dark" alt=""/>
+
 ## Hi there 👋
 
 <!--
